@@ -2,8 +2,7 @@
 
 GitHub Repository Link: https://github.com/WitnessMyHands/Express-Note-Taker
 
-Heroku Link (not working, even after 'Procfile' and 'process.env.' added)
-[Link to BROKEN Heroku Live Site](https://wmh-note-taker.herokuapp.com/)
+[Heroku Live Site](https://wmh-note-taker.herokuapp.com/)
 
 ## Table of Contents
 
