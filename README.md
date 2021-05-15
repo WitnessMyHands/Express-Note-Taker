@@ -1,9 +1,8 @@
 # Note Taker
 
-GitHub Repository Link: https://github.com/WitnessMyHands/Note-Taker
+GitHub Repository Link: https://github.com/WitnessMyHands/Express-Note-Taker
 
-Heroku
-- [Link to Live Site](https://wmh-note-taker.herokuapp.com/)
+[Heroku Link to Live Site](https://wmh-note-taker.herokuapp.com/)
 
 ## Table of Contents
 
@@ -42,7 +41,9 @@ Your note will appear on the left hand column with the given Note Title. The del
 If the Port is already in use, I found this to be an effective way of running the application successfully.
 
 In Terminal / Command Prompt:
+
 `lsof -i tcp:__(PORT NUMBER)__`
+
 `kill -9 __(PID)__`
 
 ## Questions
